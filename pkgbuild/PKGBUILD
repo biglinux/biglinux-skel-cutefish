@@ -3,7 +3,7 @@
 pkgname=biglinux-skel-cutefish
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Skel for BigLinux CuteFish"
+pkgdesc="Skel for BigLinux Community CuteFish"
 arch=('any')
 url="https://github.com/biglinux/$pkgname"
 license=('GPL3')
